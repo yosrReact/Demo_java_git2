@@ -1,6 +1,7 @@
 
 public class Hello {
 	int age;
+	String name;
 
 	public int getAge() {
 		return age;
