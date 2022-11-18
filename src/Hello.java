@@ -6,8 +6,8 @@ public class Hello {
 		return age;
 	}
 
-	public void setAge(int age) {
-		this.age = age;
+	public void setAge(int age1) {
+		this.age = age1;
 	}
 	
 	
